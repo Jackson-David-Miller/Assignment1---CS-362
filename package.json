@@ -1,0 +1,22 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": ".json for assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jackson-David-Miller/Assignment1---CS-362.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Jackson Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jackson-David-Miller/Assignment1---CS-362/issues"
+  },
+  "homepage": "https://github.com/Jackson-David-Miller/Assignment1---CS-362#readme"
+}
