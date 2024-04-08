@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Jackson-David-Miller/Assignment1---CS-362/issues"
   },
-  "homepage": "https://github.com/Jackson-David-Miller/Assignment1---CS-362#readme"
+  "homepage": "https://github.com/Jackson-David-Miller/Assignment1---CS-362#readme",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
 }
