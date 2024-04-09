@@ -2,6 +2,7 @@
   "name": "assignment-1",
   "version": "1.0.0",
   "description": ".json for assignment 1",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "run"

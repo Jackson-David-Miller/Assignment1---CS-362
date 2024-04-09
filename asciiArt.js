@@ -1,11 +1,10 @@
 import { argv } from 'node:process';
+import figlet from 'figlet';
+
+console.log(`${argv[2]}`);
 
 
-console.log(`${val[2]}`);
-
-var figlet = require("figlet");
-
-figlet(`${val[2]}`, function (err, data){
+figlet(`${argv[2]}`, function (err, data){
     if (err) {
         console.log("Something went wrong...");
         console.dir(err);
